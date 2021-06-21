@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cars</string>
+
+
+
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="required">Required</string>
+    <string name="Invalid_mobile_phone_number">Invalid mobile phone number</string>
+    <string name="used_car">Used</string>
+    <string name="new_car">New</string>
+</resources>
